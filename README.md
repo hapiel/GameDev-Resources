@@ -73,6 +73,7 @@ Assets
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites). :free:
 * [Time Fantasy](http://finalbossblues.com/timefantasy/) - Lovely SNES-Looking RPG Assets
 * [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online 2D tree generator. :free:
+* [Open Pixel Project](http://openpixelproject.com) - High quality free pixel art tiles and sprites. :free:
 
 ### 3D Assets
 
